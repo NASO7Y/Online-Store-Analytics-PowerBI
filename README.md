@@ -25,7 +25,7 @@ Online-Store-Analytics-PowerBI/
 ```
 
 ## 📸 Screenshots
-![Dashboard Screenshot](Screenshots/Dashboard.png)
+![Dashboard Screenshot](Screenshot.png)
 
 ## 🧰 Technologies Used
 - **Power BI:** For data visualization and dashboard creation.
