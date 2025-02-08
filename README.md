@@ -1,3 +1,4 @@
+
 # Online Store Analytics Dashboard - Power BI
 
 ## 📊 Overview
@@ -16,11 +17,12 @@ This project aims to transform complex data into simple, actionable insights usi
 - Presented data visually to facilitate understanding and decision-making.
 
 ## 📂 Project Structure
+```
 Online-Store-Analytics-PowerBI/
 ├── Data/ # Contains the datasets used for the analysis
 ├── Reports/ # Power BI report files (.pbix)
 └── README.md # This file
-
+```
 
 ## 📸 Screenshots
 ![Dashboard Screenshot](Screenshots/Dashboard.png)
@@ -33,35 +35,27 @@ Online-Store-Analytics-PowerBI/
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/Online-Store-Analytics-PowerBI.git
-Open the Power BI Report:
+   ```
+2. **Open the Power BI Report:**
+   - Navigate to the `Reports/` directory.
+   - Open the `.pbix` file using Power BI Desktop.
 
-Navigate to the Reports/ directory.
+3. **Explore the Dashboards:**
+   - Use the interactive elements to filter and analyze the data.
+   - Explore different visualizations to gain insights.
 
-Open the .pbix file using Power BI Desktop.
-
-Explore the Dashboards:
-
-Use the interactive elements to filter and analyze the data.
-
-Explore different visualizations to gain insights.
-
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the project.
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
-Create your feature branch (git checkout -b feature/AmazingFeature).
-
-Commit your changes (git commit -m 'Add some AmazingFeature').
-
-Push to the branch (git push origin feature/AmazingFeature).
-
-Open a pull request.
-
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🙏 Acknowledgments
-Thanks to the Power BI community for their valuable resources and tutorials.
-
-Special thanks to all contributors who helped in making this project a success.
+## 🙏 Acknowledgments
+- Thanks to the Power BI community for their valuable resources and tutorials.
+- Special thanks to all contributors who helped in making this project a success.
