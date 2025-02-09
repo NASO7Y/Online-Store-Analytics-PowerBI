@@ -57,3 +57,11 @@ Contributions are welcome! Please follow these steps:
 ## 🙏 Acknowledgments
 - Thanks to the Power BI community for their valuable resources and tutorials.
 - Special thanks to all contributors who helped in making this project a success.
+  
+## 📩 Contact
+
+GitHub: [Github](naso7y)
+
+Email: ahmed.noshy2004@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/nos7y/)
