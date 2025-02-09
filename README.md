@@ -34,7 +34,7 @@ Online-Store-Analytics-PowerBI/
 ## 📝 How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Online-Store-Analytics-PowerBI.git
+   git clone https://github.com/naso7y/Online-Store-Analytics-PowerBI.git
    ```
 2. **Open the Power BI Report:**
    - Navigate to the `Reports/` directory.
