@@ -62,6 +62,6 @@ Contributions are welcome! Please follow these steps:
 
 GitHub: [Github](https://github.com/NASO7Y)
 
-Email: [E-Mail](ahmed.noshy2004@gmail.com)
+Email: Ahmed.Noshy2004@gmail.com
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nos7y/)
